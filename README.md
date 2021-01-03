@@ -8,6 +8,8 @@ NESエミュレータ
 
 ### アーキテクチャ
 
+https://pgate1.at-ninja.jp/NES_on_FPGA/index.html
+
 ### CPUエミュレート
 
 ### 画像描画
