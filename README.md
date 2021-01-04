@@ -6,13 +6,11 @@ NESエミュレータ
 
 ## 参考資料
 
-### アーキテクチャ
+### 汎用
 
-https://pgate1.at-ninja.jp/NES_on_FPGA/index.html
-
-### CPUエミュレート
-
-### 画像描画
+- NES on FPGA ＋そんなベタなファミコンはイヤだ！ https://pgate1.at-ninja.jp/NES_on_FPGA/index.html
+- NES研究所 http://hp.vector.co.jp/authors/VA042397/nes/index.html
+- RustでNESエミュレータを作っている（備忘録） | kamiyaowl http://kamiya.tech/blog/rust-nes-emulator/
 
 ### サウンド
 
