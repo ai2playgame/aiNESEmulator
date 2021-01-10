@@ -2,7 +2,6 @@
 #include <fstream>
 #include <vector>
 #include <iomanip>
-#include "create_sprite.h"
 #include "NESFile.h"
 
 int main() {

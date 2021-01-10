@@ -147,7 +147,6 @@
     <ClCompile Include="NESFile.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="create_sprite.h" />
     <ClInclude Include="NESFile.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
