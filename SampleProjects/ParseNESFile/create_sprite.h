@@ -19,7 +19,7 @@ void merge_row(uint8_t lhs, uint8_t rhs, uint8_t* buf) {
 		{
 			pixVal = 0xaa;
 		}
-		else {
+		else { // 11
 			pixVal = 0xff;
 		}
 		buf[7 - i] = pixVal;
